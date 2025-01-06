@@ -1,0 +1,173 @@
+{
+  "Header": {
+    "className": "intro",
+    "title": "Cuenta Ahorro Flexible",
+    "paragraph": "Tu dinero crece todos los días. Te ayudamos a proteger lo que más te importa."
+  },
+  "HeaderSim": {
+    "className": "intro2",
+    "title": "Simuladores",
+    "paragraph": "Realiza una simulación de tu crédito o invierte con nosotros"
+  },
+  "About": {
+    "paragraph": "Nuestro banco se compromete a brindar soluciones financieras innovadoras, seguras y accesibles para nuestros clientes. Nos enfocamos en construir relaciones de confianza y en ofrecer una experiencia de servicio excepcional. Con una amplia gama de productos y servicios, buscamos satisfacer las necesidades de cada cliente, ya sea en sus operaciones diarias o en sus metas financieras a largo plazo.",
+    "Why": [
+      "Confianza y seguridad en cada operación",
+      "Soluciones financieras personalizadas",
+      "Soporte y asesoramiento 24/7",
+      "Innovación en servicios digitales"
+    ],
+    "Why2": [
+      "Amplia red de sucursales y cajeros",
+      "Aplicación móvil fácil de usar",
+      "Promociones y beneficios exclusivos",
+      "Compromiso con la responsabilidad social"
+    ]
+  },
+  "Gallery": [
+    {
+      "smallImage": "img/portfolio/1.jpg"
+    },
+    {
+      "smallImage": "img/portfolio/2.jpg"
+    },
+    {
+      "smallImage": "img/portfolio/3.jpg"
+    },
+    {
+      "smallImage": "img/portfolio/4.jpeg"
+    },
+    {
+      "smallImage": "img/portfolio/5.jpg"
+    },
+    {
+      "smallImage": "img/portfolio/6.jpg"
+    },
+    {
+      "smallImage": "img/portfolio/7.jpg"
+    },
+    {
+      "smallImage": "img/portfolio/8.jpg"
+    },
+    {
+      "smallImage": "img/portfolio/9.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-money",
+      "name": "Cuentas de Ahorro",
+      "text": "Ofrecemos cuentas de ahorro con atractivas tasas de interés y fácil acceso, para ayudarte a ahorrar de manera segura y conveniente."
+    },
+    {
+      "icon": "fa fa-credit-card",
+      "name": "Tarjetas de Crédito",
+      "text": "Contamos con una variedad de tarjetas de crédito que se adaptan a tus necesidades, con beneficios exclusivos y pagos flexibles."
+    },
+    {
+      "icon": "fa fa-university",
+      "name": "Préstamos Personales",
+      "text": "Accede a préstamos personales con tasas competitivas y planes de pago personalizados para cumplir tus metas financieras."
+    },
+    {
+      "icon": "fa fa-mobile",
+      "name": "Banca Móvil",
+      "text": "Gestiona tus finanzas en cualquier lugar y en cualquier momento con nuestra app de banca móvil, diseñada para tu comodidad."
+    },
+    {
+      "icon": "fa fa-usd",
+      "name": "Inversiones",
+      "text": "Aprovecha nuestras opciones de inversión con asesoramiento profesional para hacer crecer tu patrimonio de manera segura."
+    },
+    {
+      "icon": "fa fa-globe",
+      "name": "Transferencias Internacionales",
+      "text": "Realiza transferencias internacionales de forma rápida y segura, con tarifas competitivas y seguimiento en tiempo real."
+    }    
+  ],
+
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "El servicio de atención al cliente siempre me brinda soluciones rápidas y efectivas. Estoy muy satisfecho con la atención recibida.",
+      "name": "Carlos Pérez"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "La plataforma en línea es fácil de usar y muy práctica para manejar mis cuentas. Es el banco en el que confío.",
+      "name": "Luis Martínez"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "Con sus tasas competitivas, he logrado ahorrar e invertir de manera segura. Sin duda, recomiendo sus servicios financieros.",
+      "name": "Juan Ramírez"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "El personal del banco siempre es muy amable y me ayuda a tomar las mejores decisiones para mis finanzas.",
+      "name": "Ana López"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "La app móvil es muy conveniente y fácil de usar. Me permite hacer todas mis transacciones en cualquier lugar.",
+      "name": "Miguel Gómez"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "La asesoría personalizada me ha ayudado a manejar mejor mis finanzas y planificar para el futuro. Excelente servicio.",
+      "name": "María Rodríguez"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Avenida El Rey S/N, y Las Américas esquina",
+    "phone": " (02) 2999 999 ",
+    "email": "banco@pichincha.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Atención al Cliente",
+      "text": "Contamos con soporte especializado disponible 24/7 para resolver tus inquietudes y asesorarte en tus decisiones financieras."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Promociones y Ofertas",
+      "text": "Accede a promociones exclusivas en productos financieros, como cuentas de ahorro, préstamos y tarjetas de crédito."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Cuentas para Familias",
+      "text": "Ofrecemos cuentas compartidas y soluciones familiares para gestionar los recursos financieros en conjunto de forma segura y sencilla."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Innovación Digital",
+      "text": "Experimenta una plataforma segura y fácil de usar para todas tus operaciones bancarias, diseñada con las últimas tecnologías."
+    }
+  ]
+}
